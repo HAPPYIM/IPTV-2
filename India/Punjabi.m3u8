@@ -1,8 +1,7 @@
-#EXTINF:0, group-title="Punjabi",5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Akaal
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
-#EXTINF:0, group-title="Punjabi",Amar Ujala 
+#EXTINF:0, group-title="hindi",colors
+https://list.iptvcat.com/my_list/s/cc4156bb63637088a79f07e77852303a.m3u8
+#EXTINF:0, group-title="hindi",rishtey
+https://list.iptvcat.com/my_list/s/cb1cb86dd66fcb2456e913dfda4dba7e.m3u8#EXTINF:0, group-title="Punjabi",Amar Ujala 
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Punjabi
 http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
